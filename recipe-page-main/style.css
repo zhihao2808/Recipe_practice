@@ -1,0 +1,94 @@
+@font-face {
+    font-family: young-serif;
+    src: url(assets/fonts/young-serif/YoungSerif-Regular.ttf);
+}
+
+@font-face {
+    font-family: outfit;
+    src: url(assets/fonts/outfit/static/Outfit-Regular.ttf);
+}
+
+body {
+    background-color: hsl(30, 54%, 90%);
+    font-family: outfit;
+    font-weight: 400, 600, 700;
+    line-height: 1.8;
+}
+
+img {
+    width: 600px;
+    height: auto;
+    border-radius: 10px;
+}
+
+h1 {
+    font-family: young-serif;
+    font-weight: 400;
+}
+
+p {
+    font-size: 16px;
+}
+
+.main_card {
+    background-color: hsl(0, 0%, 100%);
+    padding: 30px;
+    margin: auto;
+    width: 600px;
+    border-radius: 20px;
+}
+
+.Preparation {
+    background-color: hsl(330, 100%, 98%);
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+
+.Preparation h4,
+.Preparation li::marker {
+    color: purple;
+}
+
+.Preparation span {
+    padding-left: 20px;
+}
+
+hr {
+    opacity: 30%;
+}
+
+h2,
+li::marker {
+    color: hsl(14, 45%, 36%);
+    font-family: young-serif;
+    font-weight: 200;
+}
+
+.Ingredients span {
+    padding-left: 20px;
+}
+
+.Instructions li::marker {
+    font-weight: bold
+}
+
+.Instructions span {
+    position: relative;
+    left: 20px;
+}
+
+table {
+    width: 600px;
+    text-align: left;
+}
+
+table th {
+    padding: 5px 50px;
+    border-bottom: 1px solid #dddddd;
+    font-family: outfit;
+    font-weight: 100;
+}
+
+table span {
+    color: hsl(14, 45%, 36%);
+}
