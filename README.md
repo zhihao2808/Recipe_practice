@@ -8,7 +8,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://zhihao2808.github.io/Recipe_practice/)
+- Live Site URL: [Click me go to the website](https://zhihao2808.github.io/Recipe_practice/)
 
 ### Built with
 
