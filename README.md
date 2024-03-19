@@ -4,7 +4,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Recipe page coding challenge](./design/desktop_preview.jpg)
 
 ### Links
 
