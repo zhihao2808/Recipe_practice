@@ -17,4 +17,4 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Author
 
-- Website - [zhihao2808](https://www.your-site.com)
+- Website - [zhihao2808](https://github.com/zhihao2808)
